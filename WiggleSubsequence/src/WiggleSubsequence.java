@@ -1,7 +1,12 @@
 public class WiggleSubsequence {
     public static void main(String[] args) {
         int[] array = {3,3,3,2,5};
-        System.out.println(wiggleMaxLength(array));
+        //System.out.println(wiggleMaxLength(array));
+
+        int result = (int) Math.floor(Math.log(4)) + (int) Math.floor(Math.log(1));
+
+
+
     }
 //    public static int wiggleMaxLength(int[] nums) {
 //        int lengthOfSubsequence = 1;
